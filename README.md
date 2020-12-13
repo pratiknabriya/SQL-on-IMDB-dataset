@@ -11,11 +11,10 @@ Please create a pull request if you find a more optimized query or if there are 
 
 ## List of files :
 
-* __Database Schema Diagram (jpg file)__ - Provides a schematic of all the tables in the database and their realtionships.
+* __Database Schema (jpg file)__ - Provides a schematic of all the tables in the database and their relationships.
 * __Db-IMDB-Assignment.db__ - Sample IMDB database that we would be using.
 * __sql_questions.pdf__ - List of 10 SQL problems.
 * __sql_on_IMDB_dataset.ipynb__ - IPython Notebook with all the solutions.
-* __sql_on_IMDB_dataset.sql__ - List of all the solutions saved as a sql file.
 
 We would be using python pandas library in a ipython notebook to coonect to the given database and run our sql queries. The installation process and how to run queries using pandas can be found below.
 
